@@ -1,0 +1,15 @@
+{
+    "name": "webkul/module-testdevelopment",
+    "description": "",
+    "type": "magento2-module",
+    "license": "proprietary",
+    "require": {},
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Test_TestDevelopment": ""
+        }
+    }
+}
