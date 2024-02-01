@@ -1,5 +1,5 @@
 {
-    "name": "webkul/module-testdevelopment",
+    "name": "test/module-reloadsummary",
     "description": "",
     "type": "magento2-module",
     "license": "proprietary",
@@ -9,7 +9,7 @@
             "registration.php"
         ],
         "psr-4": {
-            "Test_TestDevelopment": ""
+            "Test_ReloadSummary": ""
         }
     }
 }
