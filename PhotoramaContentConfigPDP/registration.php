@@ -6,4 +6,4 @@
 
 use Magento\Framework\Component\ComponentRegistrar;
 
-ComponentRegistrar::register(ComponentRegistrar::MODULE, 'Akash_NewColumnInGrid', __DIR__);
+ComponentRegistrar::register(ComponentRegistrar::MODULE, 'Akash_PhotoramaContentConfigPDP', __DIR__);
